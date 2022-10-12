@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @pankajchahal
+
 🌱 I’m currently learning Web Development fundamentals.
+
 🌱 I have done many Machine Learning/ Deep Learning projects during my Masters.
+
 👨‍💻 I enjoy solving competitive programming questions.
+
 👯 I am looking to collaborate in web development projects and make new friends.
 
 📫 How to reach me pchahal19@gmail.com
