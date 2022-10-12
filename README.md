@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m @pankajchahal
 
-🌱 I’m currently learning Web Development fundamentals.
+🌱 I have done my M.Tech in Mathematics and Computing from II, Patna, and B.Tech in Computer science and Enginerring from Kurukshetra Univeristy.
+
+🌱 I am currently learning Web Development fundamentals.
 
 🌱 I have done many Machine Learning/ Deep Learning projects during my Masters.
 
