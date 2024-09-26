@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m @pankajchahal
 
-🌱 I have done my M.Tech in Mathematics and Computing from II, Patna, and B.Tech in Computer science and Enginerring from Kurukshetra Univeristy.
+🌱 I have done my M.Tech in Mathematics and Computing from IIT, Patna, and B.Tech in Computer science and Enginerring from Kurukshetra Univeristy.
 
 🌱 I am currently learning Web Development fundamentals.
 
